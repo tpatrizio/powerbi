@@ -8,6 +8,12 @@
         "Spain"
       ]
     },
+    "Product": {
+    "string": [
+      "Thor",
+      "Loki"
+    ]
+  },
     "UnitsSold": {
       "int": { "min": 10, "max": 1000 } 
     },
