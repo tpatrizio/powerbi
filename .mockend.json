@@ -9,11 +9,12 @@
       ]
     },
     "Product": {
-    "string": [
-      "Thor",
-      "Loki"
-    ]
-  },
+      "string": [
+        "Carretera",
+        "Montana",
+        "Paseo"
+      ]
+    },
     "UnitsSold": {
       "int": { "min": 10, "max": 1000 } 
     },
