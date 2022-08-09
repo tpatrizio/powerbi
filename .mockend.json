@@ -4,11 +4,41 @@
       "string": [
         "Germany",
         "Italy",
-        "France"
+        "France",
+        "Spain"
       ]
     },
-    "Quantity": {
-      "int": { "min": 0, "max": 1000000 } 
+    "Produt": {
+      "String": [
+        "Carretera",
+        "Paseo",
+        "Montana"
+      ]
+    },
+    "UnitsSold": {
+      "int": { "min": 10, "max": 1000 } 
+    },
+    "GrossSales": {
+      "int": { "min": 100, "max": 10000 } 
+    },
+    "Month": {
+      "String": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ] 
+    },
+    "Year": {
+      "int": { "min": 2014, "max": 2022 } 
     }
   }
 }
