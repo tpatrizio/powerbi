@@ -23,6 +23,13 @@
     },
     "Year": {
       "int": { "min": 2014, "max": 2022 } 
+    },
+    "Month": {
+      "string": [
+        "January",
+        "February",
+        "March"
+      ]
     }
   }
 }
