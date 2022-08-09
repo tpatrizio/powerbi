@@ -1,11 +1,14 @@
 {
   "Sale": {
-      "Country": {
-        "string": [
-          "Germany",
-          "Italy",
-          "France"
-        ]
-      }
+    "Country": {
+      "string": [
+        "Germany",
+        "Italy",
+        "France"
+      ]
+    },
+    "Quantity": {
+      "int": { "min": 0, "max": 1000000 } 
     }
+  }
 }
