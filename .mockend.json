@@ -5,7 +5,8 @@
         "Germany",
         "Italy",
         "France",
-        "Spain"
+        "Spain",
+        "Greece"
       ]
     },
     "Product": {
@@ -28,7 +29,16 @@
       "string": [
         "January",
         "February",
-        "March"
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
       ]
     }
   }
